@@ -1,5 +1,5 @@
 ### Hi there 👋
-(https://tandsgo.com/wp-content/uploads/2015/03/linkedin-09.jpg)
+![](https://tandsgo.com/wp-content/uploads/2015/03/linkedin-09.jpg)
 ![](https://komarev.com/ghpvc/?username=NikhilPrajith)
 <!--
 **NikhilPrajith/NikhilPrajith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
