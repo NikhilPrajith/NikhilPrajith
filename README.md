@@ -3,7 +3,7 @@
 
 
 - ✍🏻 I’m currently a Computer Science student at City College of New York
-- 🔭 I’m currently working on improving on next.js and tailwind css
+- 🔭 I’m currently working on improving in next.js and tailwind css
 - 🌱 I’m currently learning machine learning concepts.
 - 📫 How to reach me: nikhil.prajithkumar@gmail.com
 - 💬 Ask me about my interests in soccer.
