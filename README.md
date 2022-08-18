@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 ![](https://tandsgo.com/wp-content/uploads/2015/03/linkedin-09.jpg)
 
 
@@ -9,7 +9,7 @@
 - 💬 Ask me about my interests in soccer.
 - 👯 I’m looking to collaborate on web dev and data science projects
 
-#Description
+### Description
 I am an undergraduate Computer Science student at City College of New York, following the path step by step to gain a strong understanding of general software engineering and Machine Learning. I have done a few internships at organizations that create innovative tools and ideas used to solve challenging problems.
 
 I frequently enjoy studying new programming frameworks and developments, especially in the artificial intelligence field, and loving the scalability power of tech. 
