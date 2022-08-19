@@ -1,6 +1,4 @@
 ## Hi there 👋
-![](https://tandsgo.com/wp-content/uploads/2015/03/linkedin-09.jpg)
-
 
 - ✍🏻 I’m currently a Computer Science student at City College of New York
 - 🔭 I’m currently working on improving in next.js and tailwind css
