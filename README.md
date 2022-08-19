@@ -15,9 +15,9 @@ Outside of programming and professional development, I like to play soccer; plea
 
 Happy to talk more!
 
-
-![](https://komarev.com/ghpvc/?username=NikhilPrajith)
 <!--
+![](https://komarev.com/ghpvc/?username=NikhilPrajith)
+
 **NikhilPrajith/NikhilPrajith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
