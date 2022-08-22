@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 - ✍🏻 I’m currently a Computer Science student at City College of New York
 - 🔭 I’m currently working on improving in next.js and tailwind css
@@ -6,6 +6,7 @@
 - 📫 How to reach me: nikhil.prajithkumar@gmail.com
 - 💬 Ask me about my interests in soccer.
 - 👯 I’m looking to collaborate on web dev and data science projects
+- 💭 On the other side, I am currently learning how to play the piano.
 
 ### About me
 I am an undergraduate Computer Science student at City College of New York, following the path step by step to gain a strong understanding of general software engineering and Machine Learning. I have done a few internships at organizations that create innovative tools and ideas used to solve challenging problems.
